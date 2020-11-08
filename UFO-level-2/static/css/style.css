@@ -107,14 +107,16 @@ select {
 .hero h1 {
   margin-top: 200px;
   font-size: 0.1rem;
-  animation: title 1.2s forwards linear;
+  color: #df0000;
+  animation: title 1s forwards linear;
 }
 
 .hero p {
   font-size: 2rem;
   opacity: 0;
-  animation: subtitle 1.2s forwards linear;
-  animation-delay: 1.2s;
+  animation: subtitle 3s forwards linear;
+  color: #ff0000;
+  animation-delay: 2s;
 }
 
 /* input placeholder color changes */

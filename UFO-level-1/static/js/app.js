@@ -1,5 +1,3 @@
-// Background sound
-
 // Data from data.js
 var tableData = data;
 
