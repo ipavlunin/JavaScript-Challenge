@@ -44,4 +44,8 @@ function runSearch() {
     });
 };
 
-// 
+// Drop-Down filters
+
+var selector = d3.select("#selFilter");
+// Listener on drop-down filters
+selector.on("change", changeFilter);
