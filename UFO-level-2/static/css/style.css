@@ -68,8 +68,9 @@ body {
 select {
   display: block;
   width: 100%;
-  padding: 8px;
-  color: #8e979f;
+  padding: 12px;
+  color: #ffffff;
+  background-color: #4e5d6c;
   outline: none;
 }
 
@@ -94,7 +95,7 @@ select {
 /* The styles for the parallax */
 .hero {
   position: relative;
-  height: 550px;
+  height: 450px;
   padding: 20px;
   margin: 0;
   background: black;
