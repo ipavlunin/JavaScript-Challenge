@@ -23,11 +23,11 @@ We need you to write code that will create a table dynamically based upon a [dat
 
 * After satisfying all requirements from Level1 assignment, I've added additional drop down filters:
 
-  1. `date/time`
-  2. `city`
-  3. `state`
-  4. `country`
-  5. `shape`
+  1. - `date/time`
+  2. - `city`
+  3. - `state`
+  4. - `country`
+  5. - `shape`
 
 - - -
 
